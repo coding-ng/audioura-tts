@@ -1,7 +1,7 @@
 ---
 
 ````markdown
-# <img src="logo.svg" alt="Audioura Logo" width="120"/> **Audioura TTS**
+# ![Audioura Logo](logo.svg) **Audioura TTS**
 
 **Created by _Joseph Okodugha_ – Audioura Technologies International Limited**
 
